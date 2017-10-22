@@ -1,7 +1,7 @@
 {
   "name": "Asterios",
   "version": "1.0.0",
-  "description": "WebGL Audio Experience - Asterios",
+  "description": "WebGL Audio Interactive Experience - Asterios",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server",
